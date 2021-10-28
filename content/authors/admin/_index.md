@@ -8,19 +8,19 @@ education:
   - course: Bachelors in Business Administration
     institution: Makerere University College of Business and Management Sciences
     year: 2016
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Certificates in costing, writing, e-learning, data management and Analysis
+    institution: Makerere University & JHU
+    year: 2018-2021
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Decision science and Health economic
+- Data science 
+- Epidemiology, Biostatistics
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Makerere University, center for Health and population research
+  url: https://muchap.mak.ac.ug/ 
+role: Research officer
 social:
 - icon: envelope
   icon_pack: fas
@@ -30,22 +30,21 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/MUHOOZIMICHAEL
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=-z82dMsAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mmuhoozi
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Alice Bighetti (吳恩達)
+title: Michael Muhoozi (Msc)
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Michael Muhoozi is a health services specialist with keen interest in applying Biostatistics, Decision Sciences, Health economics and Data Sciences to solve population-based cohorts challenges for mortality and morbidity surveillance. He has specific interests in immunization, reproductive health and HIV research.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
